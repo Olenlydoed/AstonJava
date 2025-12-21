@@ -1,0 +1,112 @@
+[
+  {
+    "name": "Leonid",
+    "age": 26,
+    "books": [
+      { "name": "Мартин Иден", "author": "Джек Лондон", "pages": 352, "year": 1909 },
+      { "name": "Фауст", "author": "Иоганн Гёте", "pages": 480, "year": 1808 },
+      { "name": "Clean Code", "author": "Robert Martin", "pages": 464, "year": 2008 },
+      { "name": "Effective Java", "author": "Joshua Bloch", "pages": 416, "year": 2018 },
+      { "name": "Java Puzzlers", "author": "Joshua Bloch", "pages": 384, "year": 2005 }
+    ]
+  },
+  {
+    "name": "Anna",
+    "age": 24,
+    "books": [
+      { "name": "Преступление и наказание", "author": "Фёдор Достоевский", "pages": 672, "year": 1866 },
+      { "name": "Маленький принц", "author": "Антуан де Сент-Экзюпери", "pages": 96, "year": 1943 },
+      { "name": "Spring in Action", "author": "Craig Walls", "pages": 520, "year": 2016 },
+      { "name": "Clean Architecture", "author": "Robert Martin", "pages": 432, "year": 2017 },
+      { "name": "JUnit in Action", "author": "Petar Tahchiev", "pages": 300, "year": 2015 }
+    ]
+  },
+  {
+    "name": "Mikhail",
+    "age": 27,
+    "books": [
+      { "name": "1984", "author": "Джордж Оруэлл", "pages": 320, "year": 1949 },
+      { "name": "Улисс", "author": "Джеймс Джойс", "pages": 848, "year": 1922 },
+      { "name": "Java Concurrency in Practice", "author": "Brian Goetz", "pages": 432, "year": 2006 },
+      { "name": "Head First Java", "author": "Kathy Sierra", "pages": 720, "year": 2005 },
+      { "name": "Design Patterns", "author": "GoF", "pages": 395, "year": 1994 }
+    ]
+  },
+  {
+    "name": "Elena",
+    "age": 23,
+    "books": [
+      { "name": "Гордость и предубеждение", "author": "Джейн Остин", "pages": 432, "year": 1813 },
+      { "name": "Джейн Эйр", "author": "Шарлотта Бронте", "pages": 544, "year": 1847 },
+      { "name": "Refactoring", "author": "Martin Fowler", "pages": 448, "year": 1999 },
+      { "name": "Spring Boot in Action", "author": "Craig Walls", "pages": 264, "year": 2016 },
+      { "name": "Kotlin in Action", "author": "Dmitry Jemerov", "pages": 360, "year": 2017 }
+    ]
+  },
+  {
+    "name": "Dmitry",
+    "age": 25,
+    "books": [
+      { "name": "Война и мир", "author": "Лев Толстой", "pages": 1225, "year": 1869 },
+      { "name": "Герой нашего времени", "author": "Михаил Лермонтов", "pages": 224, "year": 1840 },
+      { "name": "Microservices Patterns", "author": "Chris Richardson", "pages": 520, "year": 2018 },
+      { "name": "Docker Deep Dive", "author": "Nigel Poulton", "pages": 312, "year": 2020 },
+      { "name": "Clean Architecture", "author": "Robert Martin", "pages": 432, "year": 2017 }
+    ]
+  },
+  {
+    "name": "Olga",
+    "age": 22,
+    "books": [
+      { "name": "Алиса в Стране чудес", "author": "Льюис Кэрролл", "pages": 160, "year": 1865 },
+      { "name": "Хоббит", "author": "Джон Р. Р. Толкин", "pages": 310, "year": 1937 },
+      { "name": "You Don't Know JS", "author": "Kyle Simpson", "pages": 278, "year": 2015 },
+      { "name": "JavaScript: The Good Parts", "author": "Douglas Crockford", "pages": 176, "year": 2008 },
+      { "name": "Eloquent JavaScript", "author": "Marijn Haverbeke", "pages": 472, "year": 2018 }
+    ]
+  },
+  {
+    "name": "Artem",
+    "age": 28,
+    "books": [
+      { "name": "451° по Фаренгейту", "author": "Рэй Брэдбери", "pages": 256, "year": 1953 },
+      { "name": "О дивный новый мир", "author": "Олдос Хаксли", "pages": 320, "year": 1932 },
+      { "name": "Скотный двор", "author": "Джордж Оруэлл", "pages": 112, "year": 1945 },
+      { "name": "Algorithms", "author": "Robert Sedgewick", "pages": 976, "year": 2011 },
+      { "name": "Clean Code", "author": "Robert Martin", "pages": 464, "year": 2008 }
+    ]
+  },
+  {
+    "name": "Maria",
+    "age": 21,
+    "books": [
+      { "name": "Анна Каренина", "author": "Лев Толстой", "pages": 864, "year": 1877 },
+      { "name": "Три мушкетёра", "author": "Александр Дюма", "pages": 704, "year": 1844 },
+      { "name": "Test Automation", "author": "Mark Winteringham", "pages": 260, "year": 2019 },
+      { "name": "Selenium Guidebook", "author": "Dave Haeffner", "pages": 280, "year": 2018 },
+      { "name": "Playwright Guide", "author": "Max Schmitt", "pages": 310, "year": 2021 }
+    ]
+  },
+  {
+    "name": "Ivan",
+    "age": 29,
+    "books": [
+      { "name": "Мастер и Маргарита", "author": "Михаил Булгаков", "pages": 480, "year": 1967 },
+      { "name": "Идиот", "author": "Фёдор Достоевский", "pages": 640, "year": 1869 },
+      { "name": "Java Performance", "author": "Scott Oaks", "pages": 448, "year": 2014 },
+      { "name": "Modern Java in Action", "author": "Raoul-Gabriel Urma", "pages": 592, "year": 2018 },
+      { "name": "Spring Security", "author": "Laurentiu Spilca", "pages": 520, "year": 2020 }
+    ]
+  },
+  {
+    "name": "Natalia",
+    "age": 20,
+    "books": [
+      { "name": "Грозовой перевал", "author": "Эмили Бронте", "pages": 416, "year": 1847 },
+      { "name": "Портрет Дориана Грея", "author": "Оскар Уайльд", "pages": 304, "year": 1890 },
+      { "name": "Робинзон Крузо", "author": "Даниэль Дефо", "pages": 288, "year": 1719 },
+      { "name": "Python Crash Course", "author": "Eric Matthes", "pages": 544, "year": 2019 },
+      { "name": "Fluent Python", "author": "Luciano Ramalho", "pages": 792, "year": 2015 }
+    ]
+  }
+]
